@@ -10,4 +10,3 @@ Real‑time Messaging – Powered by Socket.IO for instant message delivery
 
 Room Creation – Users can create new rooms on the fly
 
-(Add if exists: Username support, join/leave notifications, typing indicators, message history)
